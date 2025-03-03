@@ -1,0 +1,55 @@
+!
+! Title: Personal AdGuard Blocklist
+! Description: Blocked domains migrated from NextDNS JSON
+! Homepage: https://raw.githubusercontent.com/gkbowyer/dns-blocklists/main/adblock/blocklist-personal.txt
+! Last modified: 2025-03-04T00:20:00.000Z   
+!
+!
+! Source name: NextDNS Custom Blocklist
+! Source: https://nextdns.io/
+!
+
+# [playsaurus.com]
+||playsaurus.com^
+
+# [coolmathgames.com]
+||coolmathgames.com^
+
+# [onionfist.com]
+||onionfist.com^
+
+# [poki.com]
+||poki.com^
+||poki.io^
+||t.poki.io^
+||api.poki.com^
+
+# [gamesnacks.com]
+||gamesnacks.com^
+
+# [h5games.usercontent.goog]
+||h5games.usercontent.goog^
+
+# [fungames-forfree.com]
+||fungames-forfree.com^
+
+# [crazygames.com]
+||crazygames.com^
+
+# [games-online.io]
+||games-online.io^
+
+# [cookie-clicker2.com]
+||cookie-clicker2.com^
+
+# [minecraft-services.net]
+||minecraft-services.net^
+||minecrafteduservices.com^
+
+# [stabfish.io]
+||stabfish.io^
+||stabfish2.io^
+||stabfish3.io^
+
+
+
